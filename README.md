@@ -1,1 +1,1 @@
-I plan to gain the mucles memory to remember the bash commands for github
+I plan to gain the muscles memory to remember the bash commands for GitHub!
