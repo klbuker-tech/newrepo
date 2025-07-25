@@ -1,1 +1,2 @@
+New text for new branch
 Modifying the text inside the file.
